@@ -1,0 +1,23 @@
+[0.103s] Invoking command in '/home/ubuntu/desktop/ros2_work/Adv_Sim/build/rov_sim': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/desktop/ros2_work/Adv_Sim/install/sim_launch:/home/ubuntu/desktop/ros2_work/Adv_Sim/install/py_pkg:/opt/ros/jazzy /usr/bin/cmake --build /home/ubuntu/desktop/ros2_work/Adv_Sim/build/rov_sim -- -j10 -l10
+[0.198s] Invoked command in '/home/ubuntu/desktop/ros2_work/Adv_Sim/build/rov_sim' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/desktop/ros2_work/Adv_Sim/install/sim_launch:/home/ubuntu/desktop/ros2_work/Adv_Sim/install/py_pkg:/opt/ros/jazzy /usr/bin/cmake --build /home/ubuntu/desktop/ros2_work/Adv_Sim/build/rov_sim -- -j10 -l10
+[0.204s] Invoking command in '/home/ubuntu/desktop/ros2_work/Adv_Sim/build/rov_sim': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/desktop/ros2_work/Adv_Sim/install/sim_launch:/home/ubuntu/desktop/ros2_work/Adv_Sim/install/py_pkg:/opt/ros/jazzy /usr/bin/cmake --install /home/ubuntu/desktop/ros2_work/Adv_Sim/build/rov_sim
+[0.209s] -- Install configuration: ""
+[0.210s] -- Execute custom install script
+[0.211s] -- Up-to-date symlink: /home/ubuntu/desktop/ros2_work/Adv_Sim/install/rov_sim/share/rov_sim/urdf/omni_rov.urdf
+[0.212s] -- Up-to-date symlink: /home/ubuntu/desktop/ros2_work/Adv_Sim/install/rov_sim/share/rov_sim/worlds/underwater.world
+[0.212s] -- Up-to-date symlink: /home/ubuntu/desktop/ros2_work/Adv_Sim/install/rov_sim/share/ament_index/resource_index/package_run_dependencies/rov_sim
+[0.212s] -- Up-to-date symlink: /home/ubuntu/desktop/ros2_work/Adv_Sim/install/rov_sim/share/ament_index/resource_index/parent_prefix_path/rov_sim
+[0.213s] -- Up-to-date symlink: /home/ubuntu/desktop/ros2_work/Adv_Sim/install/rov_sim/share/rov_sim/environment/ament_prefix_path.sh
+[0.213s] -- Up-to-date symlink: /home/ubuntu/desktop/ros2_work/Adv_Sim/install/rov_sim/share/rov_sim/environment/ament_prefix_path.dsv
+[0.214s] -- Up-to-date symlink: /home/ubuntu/desktop/ros2_work/Adv_Sim/install/rov_sim/share/rov_sim/environment/path.sh
+[0.214s] -- Up-to-date symlink: /home/ubuntu/desktop/ros2_work/Adv_Sim/install/rov_sim/share/rov_sim/environment/path.dsv
+[0.215s] -- Up-to-date symlink: /home/ubuntu/desktop/ros2_work/Adv_Sim/install/rov_sim/share/rov_sim/local_setup.bash
+[0.215s] -- Up-to-date symlink: /home/ubuntu/desktop/ros2_work/Adv_Sim/install/rov_sim/share/rov_sim/local_setup.sh
+[0.215s] -- Up-to-date symlink: /home/ubuntu/desktop/ros2_work/Adv_Sim/install/rov_sim/share/rov_sim/local_setup.zsh
+[0.216s] -- Up-to-date symlink: /home/ubuntu/desktop/ros2_work/Adv_Sim/install/rov_sim/share/rov_sim/local_setup.dsv
+[0.216s] -- Symlinking: /home/ubuntu/desktop/ros2_work/Adv_Sim/install/rov_sim/share/rov_sim/package.dsv
+[0.222s] -- Up-to-date symlink: /home/ubuntu/desktop/ros2_work/Adv_Sim/install/rov_sim/share/ament_index/resource_index/packages/rov_sim
+[0.223s] -- Up-to-date symlink: /home/ubuntu/desktop/ros2_work/Adv_Sim/install/rov_sim/share/rov_sim/cmake/rov_simConfig.cmake
+[0.223s] -- Up-to-date symlink: /home/ubuntu/desktop/ros2_work/Adv_Sim/install/rov_sim/share/rov_sim/cmake/rov_simConfig-version.cmake
+[0.224s] -- Up-to-date symlink: /home/ubuntu/desktop/ros2_work/Adv_Sim/install/rov_sim/share/rov_sim/package.xml
+[0.225s] Invoked command in '/home/ubuntu/desktop/ros2_work/Adv_Sim/build/rov_sim' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/desktop/ros2_work/Adv_Sim/install/sim_launch:/home/ubuntu/desktop/ros2_work/Adv_Sim/install/py_pkg:/opt/ros/jazzy /usr/bin/cmake --install /home/ubuntu/desktop/ros2_work/Adv_Sim/build/rov_sim

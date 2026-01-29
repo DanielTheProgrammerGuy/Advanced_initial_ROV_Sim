@@ -1,0 +1,19 @@
+[0.575s] Invoking command in '/home/ubuntu/desktop/ros2_work/Adv_Sim/src/sim_launch': PYTHONPATH=/home/ubuntu/desktop/ros2_work/Adv_Sim/build/sim_launch/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/desktop/ros2_work/Adv_Sim/install/sim_launch/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/sim_launch build --build-base /home/ubuntu/desktop/ros2_work/Adv_Sim/build/sim_launch/build install --record /home/ubuntu/desktop/ros2_work/Adv_Sim/build/sim_launch/install.log --single-version-externally-managed install_data
+[0.694s] running egg_info
+[0.701s] writing ../../build/sim_launch/sim_launch.egg-info/PKG-INFO
+[0.701s] writing dependency_links to ../../build/sim_launch/sim_launch.egg-info/dependency_links.txt
+[0.702s] writing requirements to ../../build/sim_launch/sim_launch.egg-info/requires.txt
+[0.702s] writing top-level names to ../../build/sim_launch/sim_launch.egg-info/top_level.txt
+[0.718s] reading manifest file '../../build/sim_launch/sim_launch.egg-info/SOURCES.txt'
+[0.720s] writing manifest file '../../build/sim_launch/sim_launch.egg-info/SOURCES.txt'
+[0.720s] running build
+[0.720s] running build_py
+[0.721s] running install
+[0.724s] running install_lib
+[0.734s] running install_data
+[0.735s] running install_egg_info
+[0.743s] removing '/home/ubuntu/desktop/ros2_work/Adv_Sim/install/sim_launch/lib/python3.12/site-packages/sim_launch-0.0.0-py3.12.egg-info' (and everything under it)
+[0.745s] Copying ../../build/sim_launch/sim_launch.egg-info to /home/ubuntu/desktop/ros2_work/Adv_Sim/install/sim_launch/lib/python3.12/site-packages/sim_launch-0.0.0-py3.12.egg-info
+[0.753s] running install_scripts
+[0.812s] writing list of installed files to '/home/ubuntu/desktop/ros2_work/Adv_Sim/build/sim_launch/install.log'
+[0.827s] Invoked command in '/home/ubuntu/desktop/ros2_work/Adv_Sim/src/sim_launch' returned '0': PYTHONPATH=/home/ubuntu/desktop/ros2_work/Adv_Sim/build/sim_launch/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/desktop/ros2_work/Adv_Sim/install/sim_launch/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/sim_launch build --build-base /home/ubuntu/desktop/ros2_work/Adv_Sim/build/sim_launch/build install --record /home/ubuntu/desktop/ros2_work/Adv_Sim/build/sim_launch/install.log --single-version-externally-managed install_data

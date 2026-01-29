@@ -1,0 +1,5 @@
+pynput
+setuptools
+
+[test]
+pytest

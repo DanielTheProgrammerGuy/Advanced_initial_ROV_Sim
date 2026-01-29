@@ -1,0 +1,1 @@
+/home/ubuntu/desktop/ros2_work/Adv_Sim/build/rov_sim/ament_cmake_environment_hooks/local_setup.zsh

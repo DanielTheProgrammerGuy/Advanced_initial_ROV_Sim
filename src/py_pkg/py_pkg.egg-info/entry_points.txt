@@ -1,0 +1,3 @@
+[console_scripts]
+keyboard_input = py_pkg.keyboard_input:main
+reciever = py_pkg.reciever:main

@@ -1,0 +1,36 @@
+[0.979s] Invoking command in '/home/ubuntu/desktop/ros2_work/Adv_Sim/build/py_pkg': PYTHONPATH=/home/ubuntu/desktop/ros2_work/Adv_Sim/build/py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/desktop/ros2_work/Adv_Sim/install/py_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/ubuntu/desktop/ros2_work/Adv_Sim/build/py_pkg/build
+[1.302s] running develop
+[1.510s] Removing /home/ubuntu/desktop/ros2_work/Adv_Sim/install/py_pkg/lib/python3.12/site-packages/py-pkg.egg-link (link to .)
+[1.511s] Link points to ['/home/ubuntu/desktop/ros2_work/adv_sim/build/py_pkg', '.']: uninstall aborted
+[1.537s] Invoked command in '/home/ubuntu/desktop/ros2_work/Adv_Sim/build/py_pkg' returned '0': PYTHONPATH=/home/ubuntu/desktop/ros2_work/Adv_Sim/build/py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/desktop/ros2_work/Adv_Sim/install/py_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/ubuntu/desktop/ros2_work/Adv_Sim/build/py_pkg/build
+[1.540s] Invoking command in '/home/ubuntu/desktop/ros2_work/Adv_Sim/src/py_pkg': PYTHONPATH=/home/ubuntu/desktop/ros2_work/Adv_Sim/build/py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/desktop/ros2_work/Adv_Sim/install/py_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/py_pkg build --build-base /home/ubuntu/desktop/ros2_work/Adv_Sim/build/py_pkg/build install --record /home/ubuntu/desktop/ros2_work/Adv_Sim/build/py_pkg/install.log --single-version-externally-managed install_data --force
+[1.759s] running egg_info
+[1.771s] writing ../../build/py_pkg/py_pkg.egg-info/PKG-INFO
+[1.772s] writing dependency_links to ../../build/py_pkg/py_pkg.egg-info/dependency_links.txt
+[1.773s] writing entry points to ../../build/py_pkg/py_pkg.egg-info/entry_points.txt
+[1.774s] writing requirements to ../../build/py_pkg/py_pkg.egg-info/requires.txt
+[1.775s] writing top-level names to ../../build/py_pkg/py_pkg.egg-info/top_level.txt
+[1.807s] reading manifest file '../../build/py_pkg/py_pkg.egg-info/SOURCES.txt'
+[1.810s] writing manifest file '../../build/py_pkg/py_pkg.egg-info/SOURCES.txt'
+[1.814s] running build
+[1.815s] running build_py
+[1.816s] copying py_pkg/keyboard_input.py -> /home/ubuntu/desktop/ros2_work/Adv_Sim/build/py_pkg/build/lib/py_pkg
+[1.818s] running install
+[1.823s] running install_lib
+[1.838s] creating /home/ubuntu/desktop/ros2_work/Adv_Sim/install/py_pkg/lib/python3.12/site-packages/py_pkg
+[1.839s] copying /home/ubuntu/desktop/ros2_work/Adv_Sim/build/py_pkg/build/lib/py_pkg/keyboard_input.py -> /home/ubuntu/desktop/ros2_work/Adv_Sim/install/py_pkg/lib/python3.12/site-packages/py_pkg
+[1.845s] copying /home/ubuntu/desktop/ros2_work/Adv_Sim/build/py_pkg/build/lib/py_pkg/__init__.py -> /home/ubuntu/desktop/ros2_work/Adv_Sim/install/py_pkg/lib/python3.12/site-packages/py_pkg
+[1.852s] copying /home/ubuntu/desktop/ros2_work/Adv_Sim/build/py_pkg/build/lib/py_pkg/motor_output.py -> /home/ubuntu/desktop/ros2_work/Adv_Sim/install/py_pkg/lib/python3.12/site-packages/py_pkg
+[1.854s] byte-compiling /home/ubuntu/desktop/ros2_work/Adv_Sim/install/py_pkg/lib/python3.12/site-packages/py_pkg/keyboard_input.py to keyboard_input.cpython-312.pyc
+[1.859s] byte-compiling /home/ubuntu/desktop/ros2_work/Adv_Sim/install/py_pkg/lib/python3.12/site-packages/py_pkg/__init__.py to __init__.cpython-312.pyc
+[1.864s] byte-compiling /home/ubuntu/desktop/ros2_work/Adv_Sim/install/py_pkg/lib/python3.12/site-packages/py_pkg/motor_output.py to motor_output.cpython-312.pyc
+[1.870s] running install_data
+[1.875s] copying resource/py_pkg -> /home/ubuntu/desktop/ros2_work/Adv_Sim/install/py_pkg/share/ament_index/resource_index/packages
+[1.879s] copying package.xml -> /home/ubuntu/desktop/ros2_work/Adv_Sim/install/py_pkg/share/py_pkg
+[1.884s] running install_egg_info
+[1.903s] Copying ../../build/py_pkg/py_pkg.egg-info to /home/ubuntu/desktop/ros2_work/Adv_Sim/install/py_pkg/lib/python3.12/site-packages/py_pkg-0.0.0-py3.12.egg-info
+[1.934s] running install_scripts
+[2.054s] Installing keyboard_input script to /home/ubuntu/desktop/ros2_work/Adv_Sim/install/py_pkg/lib/py_pkg
+[2.055s] Installing reciever script to /home/ubuntu/desktop/ros2_work/Adv_Sim/install/py_pkg/lib/py_pkg
+[2.057s] writing list of installed files to '/home/ubuntu/desktop/ros2_work/Adv_Sim/build/py_pkg/install.log'
+[2.121s] Invoked command in '/home/ubuntu/desktop/ros2_work/Adv_Sim/src/py_pkg' returned '0': PYTHONPATH=/home/ubuntu/desktop/ros2_work/Adv_Sim/build/py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/desktop/ros2_work/Adv_Sim/install/py_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/py_pkg build --build-base /home/ubuntu/desktop/ros2_work/Adv_Sim/build/py_pkg/build install --record /home/ubuntu/desktop/ros2_work/Adv_Sim/build/py_pkg/install.log --single-version-externally-managed install_data --force

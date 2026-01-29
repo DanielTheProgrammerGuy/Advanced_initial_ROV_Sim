@@ -1,0 +1,25 @@
+[0.528s] Invoking command in '/home/ubuntu/desktop/ros2_work/adv_sim/build/py_pkg': PYTHONPATH=/home/ubuntu/desktop/ros2_work/adv_sim/build/py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/desktop/ros2_work/adv_sim/install/py_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ubuntu/desktop/ros2_work/adv_sim/build/py_pkg/build --no-deps symlink_data
+[0.668s] running develop
+[0.742s] running egg_info
+[0.742s] creating py_pkg.egg-info
+[0.749s] writing py_pkg.egg-info/PKG-INFO
+[0.751s] writing dependency_links to py_pkg.egg-info/dependency_links.txt
+[0.752s] writing entry points to py_pkg.egg-info/entry_points.txt
+[0.753s] writing requirements to py_pkg.egg-info/requires.txt
+[0.754s] writing top-level names to py_pkg.egg-info/top_level.txt
+[0.754s] writing manifest file 'py_pkg.egg-info/SOURCES.txt'
+[0.770s] reading manifest file 'py_pkg.egg-info/SOURCES.txt'
+[0.772s] writing manifest file 'py_pkg.egg-info/SOURCES.txt'
+[0.779s] running build_ext
+[0.779s] Creating /home/ubuntu/desktop/ros2_work/adv_sim/install/py_pkg/lib/python3.12/site-packages/py-pkg.egg-link (link to .)
+[0.781s] Installing keyboard_input script to /home/ubuntu/desktop/ros2_work/adv_sim/install/py_pkg/lib/py_pkg
+[0.782s] Installing reciever script to /home/ubuntu/desktop/ros2_work/adv_sim/install/py_pkg/lib/py_pkg
+[0.783s] 
+[0.783s] Installed /home/ubuntu/desktop/ros2_work/Adv_Sim/build/py_pkg
+[0.784s] running symlink_data
+[0.784s] creating /home/ubuntu/desktop/ros2_work/adv_sim/install/py_pkg/share/ament_index
+[0.785s] creating /home/ubuntu/desktop/ros2_work/adv_sim/install/py_pkg/share/ament_index/resource_index
+[0.785s] creating /home/ubuntu/desktop/ros2_work/adv_sim/install/py_pkg/share/ament_index/resource_index/packages
+[0.785s] symbolically linking /home/ubuntu/desktop/ros2_work/adv_sim/build/py_pkg/resource/py_pkg -> /home/ubuntu/desktop/ros2_work/adv_sim/install/py_pkg/share/ament_index/resource_index/packages
+[0.785s] symbolically linking /home/ubuntu/desktop/ros2_work/adv_sim/build/py_pkg/package.xml -> /home/ubuntu/desktop/ros2_work/adv_sim/install/py_pkg/share/py_pkg
+[0.822s] Invoked command in '/home/ubuntu/desktop/ros2_work/adv_sim/build/py_pkg' returned '0': PYTHONPATH=/home/ubuntu/desktop/ros2_work/adv_sim/build/py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/desktop/ros2_work/adv_sim/install/py_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ubuntu/desktop/ros2_work/adv_sim/build/py_pkg/build --no-deps symlink_data

@@ -1,0 +1,27 @@
+-- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found ament_lint_auto: 0.17.3 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done (0.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/ubuntu/desktop/ros2_work/Adv_Sim/build/rov_sim
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/ubuntu/desktop/ros2_work/Adv_Sim/install/rov_sim/share/rov_sim/urdf/omni_rov.urdf
+-- Symlinking: /home/ubuntu/desktop/ros2_work/Adv_Sim/install/rov_sim/share/rov_sim/worlds/underwater.world
+-- Symlinking: /home/ubuntu/desktop/ros2_work/Adv_Sim/install/rov_sim/share/ament_index/resource_index/package_run_dependencies/rov_sim
+-- Symlinking: /home/ubuntu/desktop/ros2_work/Adv_Sim/install/rov_sim/share/ament_index/resource_index/parent_prefix_path/rov_sim
+-- Up-to-date symlink: /home/ubuntu/desktop/ros2_work/Adv_Sim/install/rov_sim/share/rov_sim/environment/ament_prefix_path.sh
+-- Symlinking: /home/ubuntu/desktop/ros2_work/Adv_Sim/install/rov_sim/share/rov_sim/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/ubuntu/desktop/ros2_work/Adv_Sim/install/rov_sim/share/rov_sim/environment/path.sh
+-- Symlinking: /home/ubuntu/desktop/ros2_work/Adv_Sim/install/rov_sim/share/rov_sim/environment/path.dsv
+-- Symlinking: /home/ubuntu/desktop/ros2_work/Adv_Sim/install/rov_sim/share/rov_sim/local_setup.bash
+-- Symlinking: /home/ubuntu/desktop/ros2_work/Adv_Sim/install/rov_sim/share/rov_sim/local_setup.sh
+-- Symlinking: /home/ubuntu/desktop/ros2_work/Adv_Sim/install/rov_sim/share/rov_sim/local_setup.zsh
+-- Symlinking: /home/ubuntu/desktop/ros2_work/Adv_Sim/install/rov_sim/share/rov_sim/local_setup.dsv
+-- Symlinking: /home/ubuntu/desktop/ros2_work/Adv_Sim/install/rov_sim/share/rov_sim/package.dsv
+-- Symlinking: /home/ubuntu/desktop/ros2_work/Adv_Sim/install/rov_sim/share/ament_index/resource_index/packages/rov_sim
+-- Symlinking: /home/ubuntu/desktop/ros2_work/Adv_Sim/install/rov_sim/share/rov_sim/cmake/rov_simConfig.cmake
+-- Symlinking: /home/ubuntu/desktop/ros2_work/Adv_Sim/install/rov_sim/share/rov_sim/cmake/rov_simConfig-version.cmake
+-- Symlinking: /home/ubuntu/desktop/ros2_work/Adv_Sim/install/rov_sim/share/rov_sim/package.xml

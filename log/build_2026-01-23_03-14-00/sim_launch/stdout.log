@@ -1,0 +1,16 @@
+running develop
+running egg_info
+writing sim_launch.egg-info/PKG-INFO
+writing dependency_links to sim_launch.egg-info/dependency_links.txt
+writing requirements to sim_launch.egg-info/requires.txt
+writing top-level names to sim_launch.egg-info/top_level.txt
+reading manifest file 'sim_launch.egg-info/SOURCES.txt'
+writing manifest file 'sim_launch.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/ubuntu/desktop/ros2_work/Adv_Sim/install/sim_launch/lib/python3.12/site-packages/sim-launch.egg-link (link to .)
+
+Installed /home/ubuntu/desktop/ros2_work/adv_sim/build/sim_launch
+running symlink_data
+symbolically linking /home/ubuntu/desktop/ros2_work/Adv_Sim/build/sim_launch/resource/sim_launch -> /home/ubuntu/desktop/ros2_work/Adv_Sim/install/sim_launch/share/ament_index/resource_index/packages
+symbolically linking /home/ubuntu/desktop/ros2_work/Adv_Sim/build/sim_launch/package.xml -> /home/ubuntu/desktop/ros2_work/Adv_Sim/install/sim_launch/share/sim_launch
+symbolically linking /home/ubuntu/desktop/ros2_work/adv_sim/build/sim_launch/launch/launch_code.py -> /home/ubuntu/desktop/ros2_work/Adv_Sim/install/sim_launch/share/sim_launch/launch

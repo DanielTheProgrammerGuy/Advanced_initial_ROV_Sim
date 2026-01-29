@@ -1,0 +1,18 @@
+[0.549s] Invoking command in '/home/ubuntu/desktop/ros2_work/Adv_Sim/build/py_pkg': PYTHONPATH=/home/ubuntu/desktop/ros2_work/Adv_Sim/build/py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/desktop/ros2_work/Adv_Sim/install/py_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ubuntu/desktop/ros2_work/Adv_Sim/build/py_pkg/build --no-deps symlink_data
+[0.698s] running develop
+[0.790s] running egg_info
+[0.797s] writing py_pkg.egg-info/PKG-INFO
+[0.797s] writing dependency_links to py_pkg.egg-info/dependency_links.txt
+[0.797s] writing entry points to py_pkg.egg-info/entry_points.txt
+[0.798s] writing requirements to py_pkg.egg-info/requires.txt
+[0.798s] writing top-level names to py_pkg.egg-info/top_level.txt
+[0.814s] reading manifest file 'py_pkg.egg-info/SOURCES.txt'
+[0.816s] writing manifest file 'py_pkg.egg-info/SOURCES.txt'
+[0.824s] running build_ext
+[0.824s] Creating /home/ubuntu/desktop/ros2_work/Adv_Sim/install/py_pkg/lib/python3.12/site-packages/py-pkg.egg-link (link to .)
+[0.825s] Installing keyboard_input script to /home/ubuntu/desktop/ros2_work/Adv_Sim/install/py_pkg/lib/py_pkg
+[0.826s] Installing reciever script to /home/ubuntu/desktop/ros2_work/Adv_Sim/install/py_pkg/lib/py_pkg
+[0.827s] 
+[0.827s] Installed /home/ubuntu/desktop/ros2_work/adv_sim/build/py_pkg
+[0.828s] running symlink_data
+[0.849s] Invoked command in '/home/ubuntu/desktop/ros2_work/Adv_Sim/build/py_pkg' returned '0': PYTHONPATH=/home/ubuntu/desktop/ros2_work/Adv_Sim/build/py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/desktop/ros2_work/Adv_Sim/install/py_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ubuntu/desktop/ros2_work/Adv_Sim/build/py_pkg/build --no-deps symlink_data
