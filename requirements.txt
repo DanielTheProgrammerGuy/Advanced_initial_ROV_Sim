@@ -1,0 +1,3 @@
+numpy
+# ROS 2 core libraries are usually managed via rosdep, 
+# but numpy is a standard python requirement.

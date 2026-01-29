@@ -1,0 +1,21 @@
+# Omni-ROV ROS 2 Simulation
+
+A ROS 2 Humble/Harmonic simulation for an 8-thruster Omni-directional ROV.
+
+## Prerequisites
+* **ROS 2 Humble** (or later)
+* **Gazebo Sim** (Harmonic/Garden)
+
+## Installation
+1. Clone the repository into your workspace folder.
+2. Install dependencies:
+   pip install -r requirements.txt
+   sudo apt install ros-humble-ros-gz
+3. Build the workspace:
+   colcon build --symlink-install
+   source install/setup.bash
+4. Launch the simualtion using launch file
+    ros2 launch sim_launch launch_code.py
+5. run nodes to be used:
+    ros2 run py_pkg keyboard_input
+    ros2 run py_pkg reciever

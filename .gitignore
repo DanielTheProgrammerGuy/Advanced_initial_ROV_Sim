@@ -1,0 +1,18 @@
+# ROS 2 Build Artifacts
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Gazebo/Ignition Caches
+*.sdf.erb
+*.urdf.erb
+
+# System
+.DS_Store
+.vscode/
